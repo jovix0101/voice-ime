@@ -1,0 +1,4 @@
+.build
+Dist
+.DS_Store
+Package.resolved
